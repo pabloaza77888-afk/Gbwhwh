@@ -1,5 +1,5 @@
 {
-  "name": "axiop - trading-bot",
+  "name": "wtf - trading-bot",
   "version": "1.0.0",
   "description": "Solana Trading Bot with Deposit/Transfer Features",
   "main": "snipe.js",
